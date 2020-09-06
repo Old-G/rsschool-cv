@@ -7,7 +7,7 @@
 
 ### Summary about me
 
-Communicative, responsible. I want to learn JavaScript and different frameworks and NodeJS for improve my skills and be able to write cool applications that will be useful to people. My English level is Pre-Intermediate. When I have free time I study English with youtube channels and  and also additional materials on programming.
+Communicative, responsible. I want to learn JavaScript and different frameworks and NodeJS for improve my skills and be able to write cool applications that will be useful to people. My English level is Pre-Intermediate. When I have free time I study English with youtube channels and use applications, also additional materials on programming.
 
 ### Skills
 
