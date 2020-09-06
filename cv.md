@@ -17,7 +17,7 @@ Familiar with methodology of Scrum and Agile. Have Soft Skills, working with tea
 
 Coding tests, some projects from courses, write app in React Native.
 
-<!-- ### Education
+### Education
 
 Online courses:
 
@@ -40,4 +40,4 @@ Design:
 Other:
 
 - meetups
-- lectures -->
+- lectures
