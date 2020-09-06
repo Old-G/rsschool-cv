@@ -3,7 +3,6 @@
 ## Gleb Zavalov
 
 > oldg590@gmail.com
-> telegram: @oldg590
 
 ### Summary about me
 
