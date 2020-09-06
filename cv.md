@@ -11,7 +11,7 @@ Communicative, responsible. I want to learn JavaScript and different frameworks 
 
 ### Skills
 
-Familiar with the Scrum methodology, Agile. Have Soft Skills, working with team.
+Familiar with methodology of Scrum and Agile. Have Soft Skills, working with team.
 
 ### Experience
 
