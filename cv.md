@@ -13,6 +13,10 @@ Communicative, responsible. I want to learn JavaScript and different frameworks 
 
 Familiar with methodology of Scrum and Agile. Have Soft Skills, working with team.
 
+### Experience
+
+Coding tests, some projects from courses, write app in React Native.
+
 ### Education
 
 Online courses:
