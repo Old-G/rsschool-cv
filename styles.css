@@ -2,3 +2,8 @@
   width: 1024px;
   margin: 0 auto;
 }
+
+h1,
+h2 {
+  color: rgb(80, 80, 230);
+}
