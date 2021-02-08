@@ -1,6 +1,6 @@
 # RESUME
 
-![My Photo](assets/photo.jpg)
+![My Photo](assets/myavatar.jpeg)
 
 ## Gleb Zavalov
 
