@@ -1,5 +1,7 @@
 # RESUME
 
+![My Photo](assets/photo.jpg)
+
 ## Gleb Zavalov
 
 > +375296180501
