@@ -5,7 +5,7 @@
 ## Gleb Zavalov
 
 > +375296180501
-> oldg590@gmail.com
+ oldg590@gmail.com
 > telegram: @oldg590
 
 ### Summary about me
