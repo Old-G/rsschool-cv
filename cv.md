@@ -4,9 +4,9 @@
 
 ## Gleb Zavalov
 
-tel: +375296180501
-email: oldg590@gmail.com
-telegram: @oldg590
+> +375296180501
+> oldg590@gmail.com
+> telegram: @oldg590
 
 ### Summary about me
 
@@ -14,11 +14,26 @@ Communicative, responsible. I want to learn JavaScript and different frameworks 
 
 ### Skills
 
+- HTML
+- CSS (SASS/LESS)
+- Tailwindcss
+- JavaScript ES6 (learning)
+- React (learning)
+- React Native (learning)
+- Git
+- GitHub
+- GitLab
+- NodeJS (learning)
+- Gulp
+- Parcel
+- KoaJS
+- PWA
+
 Familiar with methodology of Scrum and Agile. Have Soft Skills, working with team.
 
 ### Experience
 
-Coding tests, some projects from courses, write app in React Native.
+Coding some projects from courses, write app in React Native, React, build Landing, now write website wtih movie.
 
 ### Education
 
@@ -38,6 +53,7 @@ Online courses:
 Design:
 
 - Figma
+- Sketch
 - AdobeXD
 
 Other:
